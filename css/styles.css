@@ -1796,6 +1796,33 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/sruti-sriram-cover.jpg");
 }
 
+#david-ball-cover {
+ background-image: url("https://i.imgur.com/LffTzla.jpg");
+}
+
+#david-ball-card {
+ background-image: url("https://i.imgur.com/RPwtWCn.png");
+}
+
+/* BEGIN custom styling future students should ignore */
+#david-ball-description p a:link{
+  color: black;
+  text-decoration: underline;
+}
+#david-ball-description p a:visited{
+  color: black;
+  text-decoration: underline;
+}
+#david-ball-description p a:hover{
+  color: blue;
+  text-decoration: underline;
+}
+#david-ball-description p a:active{
+  color: red;
+  text-decoration: underline;
+}
+/* END custom styling future students should ignore */
+
 #greg-fisher-card{
  background-image: url("https://learn-verified.s3.amazonaws.com/greg-fisher.jpg");
 }
